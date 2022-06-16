@@ -1,4 +1,4 @@
-FROM golang:1.18.1-alpine
+FROM golang:1.18.3-alpine
 
 
 ARG SNOWFLAKE_VERSION=2.0.1
